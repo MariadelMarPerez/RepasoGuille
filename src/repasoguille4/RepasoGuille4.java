@@ -10,11 +10,15 @@ package repasoguille4;
  */
 public class RepasoGuille4 {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
-        // TODO code application logic here
+        int edad= 18;
+      
+        String nombre= "juan";
+        
+            System.out.println("su nombre es" + nombre +"y su edad es"+ edad );
+        
+             //GUILLE SIGUE TU QUE TENGO QUE TRABAJR
     }
     
 }
